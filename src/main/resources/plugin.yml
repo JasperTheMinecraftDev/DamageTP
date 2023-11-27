@@ -1,0 +1,6 @@
+name: Damagetp
+version: 1.4
+main: nl.juriantech.damagetp.Damagetp
+api-version: 1.13
+authors: [ JasperTheDev ]
+description: A plugin that teleports you if you get damage!
